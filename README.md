@@ -13,5 +13,5 @@ Tal como explican en la web del Ministerio del Interior, podemos hacerlo aplican
 
 <img src="./public/DNI%20DEMO.png" alt="DNI DEMO PREVIEW" />
 
-## Demo: [Preview](https://vercel.app/)
+## Demo: [Preview](https://dni.vercel.app/)
 
